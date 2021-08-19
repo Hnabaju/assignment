@@ -1,0 +1,36 @@
+*{
+	padding: 0;
+	margin: 50px 0 0 0; 
+
+}
+
+body {
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	background: goldenrod;
+}
+
+.content-wrapper{
+	width: 80%;
+	margin: 4% 10% 5% 10%;
+}
+
+.content-wrapper img {
+	width: 100%;
+}
+
+.text-wrapper{
+	width: 100%;
+	position: relative;
+	margin-top: -50%;
+}
+.text-wrapper h1{
+	text-align: center;
+	color: #ff0000;
+	font-weight: bolder;
+	font-size: 7vw;
+	font-style: bold;
+	margin-bottom: 60px;
+	font-family: arial sans-serif;
+}
